@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-05-27 07:09",
-  "totale": 7,
+  "aggiornato": "2026-05-27 08:15",
+  "totale": 8,
   "errori": [],
   "eventi": [
     {
@@ -16,6 +16,21 @@
       "url": "https://www.amundi.com/investitori_privati/article/mercati-sotto-pressione-geopolitica-inflazione-e-strategie-di-diversificazione",
       "fonte": "amundi.com/ita_advisor",
       "ricorrente": false,
+      "aggiornato": "2026-05-27"
+    },
+    {
+      "titolo": "Salone del Risparmio 2027",
+      "org": "Assogestioni",
+      "data": "2026-05-07",
+      "tipo": "presenza",
+      "citta": "Milano",
+      "gratuito": true,
+      "crediti": true,
+      "crediti_ore": 10,
+      "desc": "Il principale evento italiano del risparmio gestito. Centinaia di seminari gratuiti accreditati EFPA.",
+      "url": "https://www.salonedelrisparmio.com",
+      "fonte": "salonedelrisparmio.com",
+      "ricorrente": true,
       "aggiornato": "2026-05-27"
     },
     {
