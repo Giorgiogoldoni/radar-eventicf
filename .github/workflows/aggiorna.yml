@@ -1,1 +1,36 @@
+name: Aggiorna Eventi CF
 
+on:
+  schedule:
+    - cron: '0 6 * * 1'  # Ogni lunedì alle 06:00 UTC
+  workflow_dispatch:       # Permette avvio manuale da GitHub
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installa dipendenze
+        run: |
+          pip install requests beautifulsoup4 playwright lxml
+          playwright install chromium
+          playwright install-deps chromium
+
+      - name: Esegui scraper
+        run: python scraper.py
+
+      - name: Commit eventi.json aggiornato
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add eventi.json
+          git diff --staged --quiet || git commit -m "Aggiorna eventi $(date '+%Y-%m-%d')"
+          git push
