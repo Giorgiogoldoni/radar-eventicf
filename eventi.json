@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-06-08 10:49",
-  "totale": 38,
+  "aggiornato": "2026-06-15 11:59",
+  "totale": 31,
   "errori": [],
   "eventi": [
     {
@@ -46,111 +46,6 @@
       "fonte": "fisso"
     },
     {
-      "titolo": "Amundi SGR | Senza bussola non c’è rotta: riscoprire il multi-asset | Catania | 28 maggio | 11.30",
-      "org": "FundsPeople",
-      "data": "2026-05-11",
-      "tipo": "webinar",
-      "citta": "Online",
-      "gratuito": true,
-      "crediti": false,
-      "crediti_ore": 0,
-      "desc": "Evento FundsPeople Italia.",
-      "url": "https://fundspeople.com/it/evento/",
-      "fonte": "fundspeople.com/it",
-      "ricorrente": false,
-      "aggiornato": "2026-06-08"
-    },
-    {
-      "titolo": "Webank e Banca Akros | Dal trading all’investimento: strategie evolute per mercati complessi | Roma ",
-      "org": "FundsPeople",
-      "data": "2026-05-12",
-      "tipo": "webinar",
-      "citta": "Online",
-      "gratuito": true,
-      "crediti": false,
-      "crediti_ore": 0,
-      "desc": "Evento FundsPeople Italia.",
-      "url": "https://fundspeople.com/it/evento/",
-      "fonte": "fundspeople.com/it",
-      "ricorrente": false,
-      "aggiornato": "2026-06-08"
-    },
-    {
-      "titolo": "Amundi World Investment Forum | Parigi | 11-12 giugno",
-      "org": "FundsPeople",
-      "data": "2026-05-13",
-      "tipo": "webinar",
-      "citta": "Online",
-      "gratuito": true,
-      "crediti": false,
-      "crediti_ore": 0,
-      "desc": "Evento FundsPeople Italia.",
-      "url": "https://fundspeople.com/it/evento/",
-      "fonte": "fundspeople.com/it",
-      "ricorrente": false,
-      "aggiornato": "2026-06-08"
-    },
-    {
-      "titolo": "Jupiter AM | Jupiter Best Ideas | Torino | 28 maggio | 11.00",
-      "org": "FundsPeople",
-      "data": "2026-05-14",
-      "tipo": "webinar",
-      "citta": "Online",
-      "gratuito": true,
-      "crediti": false,
-      "crediti_ore": 0,
-      "desc": "Evento FundsPeople Italia.",
-      "url": "https://fundspeople.com/it/evento/",
-      "fonte": "fundspeople.com/it",
-      "ricorrente": false,
-      "aggiornato": "2026-06-08"
-    },
-    {
-      "titolo": "Jupiter Best Ideas | Verona | 27 maggio | 17.00",
-      "org": "FundsPeople",
-      "data": "2026-05-14",
-      "tipo": "webinar",
-      "citta": "Online",
-      "gratuito": true,
-      "crediti": false,
-      "crediti_ore": 0,
-      "desc": "Evento FundsPeople Italia.",
-      "url": "https://fundspeople.com/it/evento/",
-      "fonte": "fundspeople.com/it",
-      "ricorrente": false,
-      "aggiornato": "2026-06-08"
-    },
-    {
-      "titolo": "Jupiter Best Ideas | Bologna | 27 maggio | 11.00",
-      "org": "FundsPeople",
-      "data": "2026-05-14",
-      "tipo": "webinar",
-      "citta": "Online",
-      "gratuito": true,
-      "crediti": false,
-      "crediti_ore": 0,
-      "desc": "Evento FundsPeople Italia.",
-      "url": "https://fundspeople.com/it/evento/",
-      "fonte": "fundspeople.com/it",
-      "ricorrente": false,
-      "aggiornato": "2026-06-08"
-    },
-    {
-      "titolo": "Jupiter Best Ideas | Firenze | 26 maggio | 17.00",
-      "org": "FundsPeople",
-      "data": "2026-05-14",
-      "tipo": "webinar",
-      "citta": "Online",
-      "gratuito": true,
-      "crediti": false,
-      "crediti_ore": 0,
-      "desc": "Evento FundsPeople Italia.",
-      "url": "https://fundspeople.com/it/evento/",
-      "fonte": "fundspeople.com/it",
-      "ricorrente": false,
-      "aggiornato": "2026-06-08"
-    },
-    {
       "titolo": "Informa Connect | FundForum 2026 | Montecarlo | 22-24 giugno | 09.00",
       "org": "FundsPeople",
       "data": "2026-05-22",
@@ -163,7 +58,7 @@
       "url": "https://fundspeople.com/it/evento/",
       "fonte": "fundspeople.com/it",
       "ricorrente": false,
-      "aggiornato": "2026-06-08"
+      "aggiornato": "2026-06-15"
     },
     {
       "titolo": "Directa | Directa SUMMIT 2026 | Milano | 18 giugno",
@@ -178,7 +73,7 @@
       "url": "https://fundspeople.com/it/evento/",
       "fonte": "fundspeople.com/it",
       "ricorrente": false,
-      "aggiornato": "2026-06-08"
+      "aggiornato": "2026-06-15"
     },
     {
       "titolo": "Seminario ANASF + Goldman Sachs AM",
@@ -517,7 +412,7 @@
       "url": "https://acepi.it/it/node/48822",
       "fonte": "acepi.it",
       "ricorrente": false,
-      "aggiornato": "2026-06-08"
+      "aggiornato": "2026-06-15"
     },
     {
       "titolo": "Consultique Webinar — Come ottenere la certificazione CFP",
