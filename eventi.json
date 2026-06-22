@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-06-15 11:59",
-  "totale": 31,
+  "aggiornato": "2026-06-22 11:49",
+  "totale": 33,
   "errori": [],
   "eventi": [
     {
@@ -46,21 +46,6 @@
       "fonte": "fisso"
     },
     {
-      "titolo": "Informa Connect | FundForum 2026 | Montecarlo | 22-24 giugno | 09.00",
-      "org": "FundsPeople",
-      "data": "2026-05-22",
-      "tipo": "webinar",
-      "citta": "Online",
-      "gratuito": true,
-      "crediti": false,
-      "crediti_ore": 0,
-      "desc": "Evento FundsPeople Italia.",
-      "url": "https://fundspeople.com/it/evento/",
-      "fonte": "fundspeople.com/it",
-      "ricorrente": false,
-      "aggiornato": "2026-06-15"
-    },
-    {
       "titolo": "Directa | Directa SUMMIT 2026 | Milano | 18 giugno",
       "org": "FundsPeople",
       "data": "2026-05-25",
@@ -73,7 +58,7 @@
       "url": "https://fundspeople.com/it/evento/",
       "fonte": "fundspeople.com/it",
       "ricorrente": false,
-      "aggiornato": "2026-06-15"
+      "aggiornato": "2026-06-22"
     },
     {
       "titolo": "Seminario ANASF + Goldman Sachs AM",
@@ -132,6 +117,21 @@
       "fonte": "fisso"
     },
     {
+      "titolo": "Quaestio Capital Management | Webinar: Il punto sui mercati | 23 giugno | 12.00",
+      "org": "FundsPeople",
+      "data": "2026-06-16",
+      "tipo": "webinar",
+      "citta": "Online",
+      "gratuito": true,
+      "crediti": false,
+      "crediti_ore": 0,
+      "desc": "Evento FundsPeople Italia.",
+      "url": "https://fundspeople.com/it/evento/",
+      "fonte": "fundspeople.com/it",
+      "ricorrente": false,
+      "aggiornato": "2026-06-22"
+    },
+    {
       "titolo": "Parla con Pictet — giugno",
       "org": "Pictet",
       "data": "2026-06-17",
@@ -144,6 +144,21 @@
       "desc": "Appuntamento digitale mensile Pictet AM per advisor.",
       "url": "https://am.pictet.com/it/it/advisors/events",
       "fonte": "fisso"
+    },
+    {
+      "titolo": "Inniches | Secondaries Virtual Conf 2026 | 30 giugno | 17.00",
+      "org": "FundsPeople",
+      "data": "2026-06-17",
+      "tipo": "webinar",
+      "citta": "Online",
+      "gratuito": true,
+      "crediti": false,
+      "crediti_ore": 0,
+      "desc": "Evento FundsPeople Italia.",
+      "url": "https://fundspeople.com/it/evento/",
+      "fonte": "fundspeople.com/it",
+      "ricorrente": false,
+      "aggiornato": "2026-06-22"
     },
     {
       "titolo": "Directa Summit 2026",
@@ -358,6 +373,21 @@
       "fonte": "fisso"
     },
     {
+      "titolo": "Investing Roma 2026",
+      "org": "Investing Roma",
+      "data": "2026-10-16",
+      "tipo": "presenza",
+      "citta": "Roma",
+      "gratuito": true,
+      "crediti": false,
+      "crediti_ore": 0,
+      "desc": "Il più grande evento gratuito su trading e investimenti a Roma.",
+      "url": "https://www.investingroma.it",
+      "fonte": "investingroma.it",
+      "ricorrente": false,
+      "aggiornato": "2026-06-22"
+    },
+    {
       "titolo": "Parla con Pictet — novembre",
       "org": "Pictet",
       "data": "2026-11-18",
@@ -412,7 +442,7 @@
       "url": "https://acepi.it/it/node/48822",
       "fonte": "acepi.it",
       "ricorrente": false,
-      "aggiornato": "2026-06-15"
+      "aggiornato": "2026-06-22"
     },
     {
       "titolo": "Consultique Webinar — Come ottenere la certificazione CFP",
