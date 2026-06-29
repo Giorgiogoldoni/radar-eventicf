@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-06-22 11:49",
-  "totale": 33,
+  "aggiornato": "2026-06-29 10:53",
+  "totale": 32,
   "errori": [],
   "eventi": [
     {
@@ -44,21 +44,6 @@
       "desc": "Il principale evento italiano del risparmio gestito. Centinaia di seminari gratuiti accreditati EFPA.",
       "url": "https://www.salonedelrisparmio.com",
       "fonte": "fisso"
-    },
-    {
-      "titolo": "Directa | Directa SUMMIT 2026 | Milano | 18 giugno",
-      "org": "FundsPeople",
-      "data": "2026-05-25",
-      "tipo": "webinar",
-      "citta": "Online",
-      "gratuito": true,
-      "crediti": false,
-      "crediti_ore": 0,
-      "desc": "Evento FundsPeople Italia.",
-      "url": "https://fundspeople.com/it/evento/",
-      "fonte": "fundspeople.com/it",
-      "ricorrente": false,
-      "aggiornato": "2026-06-22"
     },
     {
       "titolo": "Seminario ANASF + Goldman Sachs AM",
@@ -129,7 +114,7 @@
       "url": "https://fundspeople.com/it/evento/",
       "fonte": "fundspeople.com/it",
       "ricorrente": false,
-      "aggiornato": "2026-06-22"
+      "aggiornato": "2026-06-29"
     },
     {
       "titolo": "Parla con Pictet — giugno",
@@ -158,7 +143,7 @@
       "url": "https://fundspeople.com/it/evento/",
       "fonte": "fundspeople.com/it",
       "ricorrente": false,
-      "aggiornato": "2026-06-22"
+      "aggiornato": "2026-06-29"
     },
     {
       "titolo": "Directa Summit 2026",
@@ -385,7 +370,7 @@
       "url": "https://www.investingroma.it",
       "fonte": "investingroma.it",
       "ricorrente": false,
-      "aggiornato": "2026-06-22"
+      "aggiornato": "2026-06-29"
     },
     {
       "titolo": "Parla con Pictet — novembre",
@@ -442,7 +427,7 @@
       "url": "https://acepi.it/it/node/48822",
       "fonte": "acepi.it",
       "ricorrente": false,
-      "aggiornato": "2026-06-22"
+      "aggiornato": "2026-06-29"
     },
     {
       "titolo": "Consultique Webinar — Come ottenere la certificazione CFP",
