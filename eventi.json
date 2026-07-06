@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-06-29 10:53",
-  "totale": 32,
+  "aggiornato": "2026-07-06 10:14",
+  "totale": 33,
   "errori": [],
   "eventi": [
     {
@@ -114,7 +114,7 @@
       "url": "https://fundspeople.com/it/evento/",
       "fonte": "fundspeople.com/it",
       "ricorrente": false,
-      "aggiornato": "2026-06-29"
+      "aggiornato": "2026-07-06"
     },
     {
       "titolo": "Parla con Pictet — giugno",
@@ -143,7 +143,7 @@
       "url": "https://fundspeople.com/it/evento/",
       "fonte": "fundspeople.com/it",
       "ricorrente": false,
-      "aggiornato": "2026-06-29"
+      "aggiornato": "2026-07-06"
     },
     {
       "titolo": "Directa Summit 2026",
@@ -188,6 +188,21 @@
       "fonte": "fisso",
       "ricorrente": true,
       "aggiornato": "2026-06-03"
+    },
+    {
+      "titolo": "Quaestio Capital Management | Webinar: Il punto sui mercati - Focus obbligazioni | 14 luglio | 12.00",
+      "org": "FundsPeople",
+      "data": "2026-07-02",
+      "tipo": "webinar",
+      "citta": "Online",
+      "gratuito": true,
+      "crediti": false,
+      "crediti_ore": 0,
+      "desc": "Evento FundsPeople Italia.",
+      "url": "https://fundspeople.com/it/evento/",
+      "fonte": "fundspeople.com/it",
+      "ricorrente": false,
+      "aggiornato": "2026-07-06"
     },
     {
       "titolo": "Corso ACEPI #3 — Casi Pratici Certificates",
@@ -370,7 +385,7 @@
       "url": "https://www.investingroma.it",
       "fonte": "investingroma.it",
       "ricorrente": false,
-      "aggiornato": "2026-06-29"
+      "aggiornato": "2026-07-06"
     },
     {
       "titolo": "Parla con Pictet — novembre",
@@ -427,7 +442,7 @@
       "url": "https://acepi.it/it/node/48822",
       "fonte": "acepi.it",
       "ricorrente": false,
-      "aggiornato": "2026-06-29"
+      "aggiornato": "2026-07-06"
     },
     {
       "titolo": "Consultique Webinar — Come ottenere la certificazione CFP",
