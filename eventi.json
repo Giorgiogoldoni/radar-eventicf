@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-07-13 09:21",
-  "totale": 33,
+  "aggiornato": "2026-07-20 08:53",
+  "totale": 31,
   "errori": [],
   "eventi": [
     {
@@ -102,21 +102,6 @@
       "fonte": "fisso"
     },
     {
-      "titolo": "Quaestio Capital Management | Webinar: Il punto sui mercati | 23 giugno | 12.00",
-      "org": "FundsPeople",
-      "data": "2026-06-16",
-      "tipo": "webinar",
-      "citta": "Online",
-      "gratuito": true,
-      "crediti": false,
-      "crediti_ore": 0,
-      "desc": "Evento FundsPeople Italia.",
-      "url": "https://fundspeople.com/it/evento/",
-      "fonte": "fundspeople.com/it",
-      "ricorrente": false,
-      "aggiornato": "2026-07-13"
-    },
-    {
       "titolo": "Parla con Pictet — giugno",
       "org": "Pictet",
       "data": "2026-06-17",
@@ -129,21 +114,6 @@
       "desc": "Appuntamento digitale mensile Pictet AM per advisor.",
       "url": "https://am.pictet.com/it/it/advisors/events",
       "fonte": "fisso"
-    },
-    {
-      "titolo": "Inniches | Secondaries Virtual Conf 2026 | 30 giugno | 17.00",
-      "org": "FundsPeople",
-      "data": "2026-06-17",
-      "tipo": "webinar",
-      "citta": "Online",
-      "gratuito": true,
-      "crediti": false,
-      "crediti_ore": 0,
-      "desc": "Evento FundsPeople Italia.",
-      "url": "https://fundspeople.com/it/evento/",
-      "fonte": "fundspeople.com/it",
-      "ricorrente": false,
-      "aggiornato": "2026-07-13"
     },
     {
       "titolo": "Directa Summit 2026",
@@ -202,7 +172,7 @@
       "url": "https://fundspeople.com/it/evento/",
       "fonte": "fundspeople.com/it",
       "ricorrente": false,
-      "aggiornato": "2026-07-13"
+      "aggiornato": "2026-07-20"
     },
     {
       "titolo": "Corso ACEPI #3 — Casi Pratici Certificates",
@@ -385,7 +355,7 @@
       "url": "https://www.investingroma.it",
       "fonte": "investingroma.it",
       "ricorrente": false,
-      "aggiornato": "2026-07-13"
+      "aggiornato": "2026-07-20"
     },
     {
       "titolo": "Parla con Pictet — novembre",
@@ -442,7 +412,7 @@
       "url": "https://acepi.it/it/node/48822",
       "fonte": "acepi.it",
       "ricorrente": false,
-      "aggiornato": "2026-07-13"
+      "aggiornato": "2026-07-20"
     },
     {
       "titolo": "Consultique Webinar — Come ottenere la certificazione CFP",
