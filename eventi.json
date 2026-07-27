@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-07-20 08:53",
-  "totale": 31,
+  "aggiornato": "2026-07-27 09:45",
+  "totale": 33,
   "errori": [],
   "eventi": [
     {
@@ -172,7 +172,7 @@
       "url": "https://fundspeople.com/it/evento/",
       "fonte": "fundspeople.com/it",
       "ricorrente": false,
-      "aggiornato": "2026-07-20"
+      "aggiornato": "2026-07-27"
     },
     {
       "titolo": "Corso ACEPI #3 — Casi Pratici Certificates",
@@ -229,6 +229,36 @@
       "desc": "Appuntamento digitale mensile Pictet AM per advisor.",
       "url": "https://am.pictet.com/it/it/advisors/events",
       "fonte": "fisso"
+    },
+    {
+      "titolo": "IPEM Global 2026 | Parigi | 8 - 10 settembre | 09.00",
+      "org": "FundsPeople",
+      "data": "2026-07-20",
+      "tipo": "webinar",
+      "citta": "Online",
+      "gratuito": true,
+      "crediti": false,
+      "crediti_ore": 0,
+      "desc": "Evento FundsPeople Italia.",
+      "url": "https://fundspeople.com/it/evento/",
+      "fonte": "fundspeople.com/it",
+      "ricorrente": false,
+      "aggiornato": "2026-07-27"
+    },
+    {
+      "titolo": "Informa Connect | SuperReturn Europe 2026 | Amsterdam | 3 - 6 novembre | 08.50",
+      "org": "FundsPeople",
+      "data": "2026-07-21",
+      "tipo": "webinar",
+      "citta": "Online",
+      "gratuito": true,
+      "crediti": false,
+      "crediti_ore": 0,
+      "desc": "Evento FundsPeople Italia.",
+      "url": "https://fundspeople.com/it/evento/",
+      "fonte": "fundspeople.com/it",
+      "ricorrente": false,
+      "aggiornato": "2026-07-27"
     },
     {
       "titolo": "Parla con Pictet — settembre",
@@ -355,7 +385,7 @@
       "url": "https://www.investingroma.it",
       "fonte": "investingroma.it",
       "ricorrente": false,
-      "aggiornato": "2026-07-20"
+      "aggiornato": "2026-07-27"
     },
     {
       "titolo": "Parla con Pictet — novembre",
@@ -412,7 +442,7 @@
       "url": "https://acepi.it/it/node/48822",
       "fonte": "acepi.it",
       "ricorrente": false,
-      "aggiornato": "2026-07-20"
+      "aggiornato": "2026-07-27"
     },
     {
       "titolo": "Consultique Webinar — Come ottenere la certificazione CFP",
