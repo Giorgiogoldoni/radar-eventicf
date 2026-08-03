@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-07-27 09:45",
-  "totale": 33,
+  "aggiornato": "2026-08-03 09:38",
+  "totale": 32,
   "errori": [],
   "eventi": [
     {
@@ -160,21 +160,6 @@
       "aggiornato": "2026-06-03"
     },
     {
-      "titolo": "Quaestio Capital Management | Webinar: Il punto sui mercati - Focus obbligazioni | 14 luglio | 12.00",
-      "org": "FundsPeople",
-      "data": "2026-07-02",
-      "tipo": "webinar",
-      "citta": "Online",
-      "gratuito": true,
-      "crediti": false,
-      "crediti_ore": 0,
-      "desc": "Evento FundsPeople Italia.",
-      "url": "https://fundspeople.com/it/evento/",
-      "fonte": "fundspeople.com/it",
-      "ricorrente": false,
-      "aggiornato": "2026-07-27"
-    },
-    {
       "titolo": "Corso ACEPI #3 — Casi Pratici Certificates",
       "org": "ACEPI",
       "data": "2026-07-07",
@@ -243,7 +228,7 @@
       "url": "https://fundspeople.com/it/evento/",
       "fonte": "fundspeople.com/it",
       "ricorrente": false,
-      "aggiornato": "2026-07-27"
+      "aggiornato": "2026-08-03"
     },
     {
       "titolo": "Informa Connect | SuperReturn Europe 2026 | Amsterdam | 3 - 6 novembre | 08.50",
@@ -258,7 +243,7 @@
       "url": "https://fundspeople.com/it/evento/",
       "fonte": "fundspeople.com/it",
       "ricorrente": false,
-      "aggiornato": "2026-07-27"
+      "aggiornato": "2026-08-03"
     },
     {
       "titolo": "Parla con Pictet — settembre",
@@ -385,7 +370,7 @@
       "url": "https://www.investingroma.it",
       "fonte": "investingroma.it",
       "ricorrente": false,
-      "aggiornato": "2026-07-27"
+      "aggiornato": "2026-08-03"
     },
     {
       "titolo": "Parla con Pictet — novembre",
@@ -442,7 +427,7 @@
       "url": "https://acepi.it/it/node/48822",
       "fonte": "acepi.it",
       "ricorrente": false,
-      "aggiornato": "2026-07-27"
+      "aggiornato": "2026-08-03"
     },
     {
       "titolo": "Consultique Webinar — Come ottenere la certificazione CFP",
