@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-08-10 07:27",
-  "totale": 31,
+  "aggiornato": "2026-08-17 06:48",
+  "totale": 32,
   "errori": [],
   "eventi": [
     {
@@ -228,7 +228,7 @@
       "url": "https://fundspeople.com/it/evento/",
       "fonte": "fundspeople.com/it",
       "ricorrente": false,
-      "aggiornato": "2026-08-10"
+      "aggiornato": "2026-08-17"
     },
     {
       "titolo": "Informa Connect | SuperReturn Europe 2026 | Amsterdam | 3 - 6 novembre | 08.50",
@@ -243,7 +243,7 @@
       "url": "https://fundspeople.com/it/evento/",
       "fonte": "fundspeople.com/it",
       "ricorrente": false,
-      "aggiornato": "2026-08-10"
+      "aggiornato": "2026-08-17"
     },
     {
       "titolo": "Parla con Pictet — settembre",
@@ -358,6 +358,21 @@
       "fonte": "fisso"
     },
     {
+      "titolo": "Investing Roma 2026",
+      "org": "Investing Roma",
+      "data": "2026-10-16",
+      "tipo": "presenza",
+      "citta": "Roma",
+      "gratuito": true,
+      "crediti": false,
+      "crediti_ore": 0,
+      "desc": "Il più grande evento gratuito su trading e investimenti a Roma.",
+      "url": "https://www.investingroma.it",
+      "fonte": "investingroma.it",
+      "ricorrente": false,
+      "aggiornato": "2026-08-17"
+    },
+    {
       "titolo": "Parla con Pictet — novembre",
       "org": "Pictet",
       "data": "2026-11-18",
@@ -400,7 +415,7 @@
       "fonte": "fisso"
     },
     {
-      "titolo": "Calendario Corso #8 *TASSI E DIVIDENDI PER I CERTIFICATES* ACEPI/EFPA/CFA - iscr",
+      "titolo": "Calendario Corso #8 *TASSI E DIVIDENDI PER I CERTIFICATES* ACEPI/EFPA/CFA/CFP® -",
       "org": "ACEPI",
       "data": "2026-11-27",
       "tipo": "webinar",
@@ -412,7 +427,7 @@
       "url": "https://acepi.it/it/node/48822",
       "fonte": "acepi.it",
       "ricorrente": false,
-      "aggiornato": "2026-08-10"
+      "aggiornato": "2026-08-17"
     },
     {
       "titolo": "Consultique Webinar — Come ottenere la certificazione CFP",
