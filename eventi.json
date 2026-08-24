@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-08-17 06:48",
-  "totale": 32,
+  "aggiornato": "2026-08-24 06:52",
+  "totale": 30,
   "errori": [],
   "eventi": [
     {
@@ -216,36 +216,6 @@
       "fonte": "fisso"
     },
     {
-      "titolo": "IPEM Global 2026 | Parigi | 8 - 10 settembre | 09.00",
-      "org": "FundsPeople",
-      "data": "2026-07-20",
-      "tipo": "webinar",
-      "citta": "Online",
-      "gratuito": true,
-      "crediti": false,
-      "crediti_ore": 0,
-      "desc": "Evento FundsPeople Italia.",
-      "url": "https://fundspeople.com/it/evento/",
-      "fonte": "fundspeople.com/it",
-      "ricorrente": false,
-      "aggiornato": "2026-08-17"
-    },
-    {
-      "titolo": "Informa Connect | SuperReturn Europe 2026 | Amsterdam | 3 - 6 novembre | 08.50",
-      "org": "FundsPeople",
-      "data": "2026-07-21",
-      "tipo": "webinar",
-      "citta": "Online",
-      "gratuito": true,
-      "crediti": false,
-      "crediti_ore": 0,
-      "desc": "Evento FundsPeople Italia.",
-      "url": "https://fundspeople.com/it/evento/",
-      "fonte": "fundspeople.com/it",
-      "ricorrente": false,
-      "aggiornato": "2026-08-17"
-    },
-    {
       "titolo": "Parla con Pictet — settembre",
       "org": "Pictet",
       "data": "2026-09-16",
@@ -370,7 +340,7 @@
       "url": "https://www.investingroma.it",
       "fonte": "investingroma.it",
       "ricorrente": false,
-      "aggiornato": "2026-08-17"
+      "aggiornato": "2026-08-24"
     },
     {
       "titolo": "Parla con Pictet — novembre",
@@ -427,7 +397,7 @@
       "url": "https://acepi.it/it/node/48822",
       "fonte": "acepi.it",
       "ricorrente": false,
-      "aggiornato": "2026-08-17"
+      "aggiornato": "2026-08-24"
     },
     {
       "titolo": "Consultique Webinar — Come ottenere la certificazione CFP",
