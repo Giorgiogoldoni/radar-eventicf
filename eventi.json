@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-09-14 11:44",
-  "totale": 30,
+  "aggiornato": "2026-09-21 11:58",
+  "totale": 31,
   "errori": [],
   "eventi": [
     {
@@ -244,6 +244,21 @@
       "fonte": "fisso"
     },
     {
+      "titolo": "Pictet Asset Management | Roadshow Autunnale “Hic sunt leones” | Parma | 21 settembre | 15.00",
+      "org": "FundsPeople",
+      "data": "2026-09-17",
+      "tipo": "webinar",
+      "citta": "Online",
+      "gratuito": true,
+      "crediti": false,
+      "crediti_ore": 0,
+      "desc": "Evento FundsPeople Italia.",
+      "url": "https://fundspeople.com/it/evento/",
+      "fonte": "fundspeople.com/it",
+      "ricorrente": false,
+      "aggiornato": "2026-09-21"
+    },
+    {
       "titolo": "Schroders Webinar Outlook Q4",
       "org": "Schroders",
       "data": "2026-09-22",
@@ -340,7 +355,7 @@
       "url": "https://www.investingroma.it",
       "fonte": "investingroma.it",
       "ricorrente": false,
-      "aggiornato": "2026-09-14"
+      "aggiornato": "2026-09-21"
     },
     {
       "titolo": "Parla con Pictet — novembre",
@@ -397,7 +412,7 @@
       "url": "https://acepi.it/it/node/48822",
       "fonte": "acepi.it",
       "ricorrente": false,
-      "aggiornato": "2026-09-14"
+      "aggiornato": "2026-09-21"
     },
     {
       "titolo": "Consultique Webinar — Come ottenere la certificazione CFP",
