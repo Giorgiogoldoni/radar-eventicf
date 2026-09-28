@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-09-21 11:58",
-  "totale": 31,
+  "aggiornato": "2026-09-28 12:52",
+  "totale": 34,
   "errori": [],
   "eventi": [
     {
@@ -256,7 +256,22 @@
       "url": "https://fundspeople.com/it/evento/",
       "fonte": "fundspeople.com/it",
       "ricorrente": false,
-      "aggiornato": "2026-09-21"
+      "aggiornato": "2026-09-28"
+    },
+    {
+      "titolo": "Rothschild & Co. AM | R-co Valor Roadshow 2026 | Milano | 23 settembre | 10.30",
+      "org": "FundsPeople",
+      "data": "2026-09-21",
+      "tipo": "webinar",
+      "citta": "Online",
+      "gratuito": true,
+      "crediti": false,
+      "crediti_ore": 0,
+      "desc": "Evento FundsPeople Italia.",
+      "url": "https://fundspeople.com/it/evento/",
+      "fonte": "fundspeople.com/it",
+      "ricorrente": false,
+      "aggiornato": "2026-09-28"
     },
     {
       "titolo": "Schroders Webinar Outlook Q4",
@@ -271,6 +286,36 @@
       "desc": "Scenari macro e idee d'investimento per il Q4.",
       "url": "https://www.schrodersportal.it",
       "fonte": "fisso"
+    },
+    {
+      "titolo": "ANCP | ANCP Financial Forum 2026 | Bologna | 6 ottobre | 13:45",
+      "org": "FundsPeople",
+      "data": "2026-09-24",
+      "tipo": "webinar",
+      "citta": "Online",
+      "gratuito": true,
+      "crediti": false,
+      "crediti_ore": 0,
+      "desc": "Evento FundsPeople Italia.",
+      "url": "https://fundspeople.com/it/evento/",
+      "fonte": "fundspeople.com/it",
+      "ricorrente": false,
+      "aggiornato": "2026-09-28"
+    },
+    {
+      "titolo": "Candriam | Too hot to ignore: Investing in a warming world | 6 ottobre | 9:30",
+      "org": "FundsPeople",
+      "data": "2026-09-24",
+      "tipo": "webinar",
+      "citta": "Online",
+      "gratuito": true,
+      "crediti": false,
+      "crediti_ore": 0,
+      "desc": "Evento FundsPeople Italia.",
+      "url": "https://fundspeople.com/it/evento/",
+      "fonte": "fundspeople.com/it",
+      "ricorrente": false,
+      "aggiornato": "2026-09-28"
     },
     {
       "titolo": "Mese Educazione Finanziaria 2026",
@@ -355,7 +400,7 @@
       "url": "https://www.investingroma.it",
       "fonte": "investingroma.it",
       "ricorrente": false,
-      "aggiornato": "2026-09-21"
+      "aggiornato": "2026-09-28"
     },
     {
       "titolo": "Parla con Pictet — novembre",
@@ -412,7 +457,7 @@
       "url": "https://acepi.it/it/node/48822",
       "fonte": "acepi.it",
       "ricorrente": false,
-      "aggiornato": "2026-09-21"
+      "aggiornato": "2026-09-28"
     },
     {
       "titolo": "Consultique Webinar — Come ottenere la certificazione CFP",
