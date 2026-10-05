@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-10-01 07:05",
-  "totale": 34,
+  "aggiornato": "2026-10-05 13:33",
+  "totale": 35,
   "errori": [],
   "eventi": [
     {
@@ -256,7 +256,7 @@
       "url": "https://fundspeople.com/it/evento/",
       "fonte": "fundspeople.com/it",
       "ricorrente": false,
-      "aggiornato": "2026-10-01"
+      "aggiornato": "2026-10-05"
     },
     {
       "titolo": "Rothschild & Co. AM | R-co Valor Roadshow 2026 | Milano | 23 settembre | 10.30",
@@ -271,7 +271,7 @@
       "url": "https://fundspeople.com/it/evento/",
       "fonte": "fundspeople.com/it",
       "ricorrente": false,
-      "aggiornato": "2026-10-01"
+      "aggiornato": "2026-10-05"
     },
     {
       "titolo": "Schroders Webinar Outlook Q4",
@@ -300,7 +300,7 @@
       "url": "https://fundspeople.com/it/evento/",
       "fonte": "fundspeople.com/it",
       "ricorrente": false,
-      "aggiornato": "2026-10-01"
+      "aggiornato": "2026-10-05"
     },
     {
       "titolo": "Candriam | Too hot to ignore: Investing in a warming world | 6 ottobre | 9:30",
@@ -315,7 +315,7 @@
       "url": "https://fundspeople.com/it/evento/",
       "fonte": "fundspeople.com/it",
       "ricorrente": false,
-      "aggiornato": "2026-10-01"
+      "aggiornato": "2026-10-05"
     },
     {
       "titolo": "Mese Educazione Finanziaria 2026",
@@ -330,6 +330,21 @@
       "desc": "Ottobre: mese nazionale dell'educazione finanziaria. Decine di eventi locali gratuiti.",
       "url": "https://quellocheconta.gov.it",
       "fonte": "fisso"
+    },
+    {
+      "titolo": "FundsPeople | Advisory Power 2026 | Milano | 22 ottobre | 14.30",
+      "org": "FundsPeople",
+      "data": "2026-10-01",
+      "tipo": "webinar",
+      "citta": "Online",
+      "gratuito": true,
+      "crediti": false,
+      "crediti_ore": 0,
+      "desc": "Evento FundsPeople Italia.",
+      "url": "https://fundspeople.com/it/evento/",
+      "fonte": "fundspeople.com/it",
+      "ricorrente": false,
+      "aggiornato": "2026-10-05"
     },
     {
       "titolo": "Corso ACEPI #4 — Certificates Capitale Non Protetto",
@@ -400,7 +415,7 @@
       "url": "https://www.investingroma.it",
       "fonte": "investingroma.it",
       "ricorrente": false,
-      "aggiornato": "2026-10-01"
+      "aggiornato": "2026-10-05"
     },
     {
       "titolo": "Parla con Pictet — novembre",
@@ -457,7 +472,7 @@
       "url": "https://acepi.it/it/node/48822",
       "fonte": "acepi.it",
       "ricorrente": false,
-      "aggiornato": "2026-10-01"
+      "aggiornato": "2026-10-05"
     },
     {
       "titolo": "Consultique Webinar — Come ottenere la certificazione CFP",
