@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-10-19 12:04",
-  "totale": 35,
+  "aggiornato": "2026-10-26 12:13",
+  "totale": 33,
   "errori": [],
   "eventi": [
     {
@@ -244,21 +244,6 @@
       "fonte": "fisso"
     },
     {
-      "titolo": "Rothschild & Co. AM | R-co Valor Roadshow 2026 | Milano | 23 settembre | 10.30",
-      "org": "FundsPeople",
-      "data": "2026-09-21",
-      "tipo": "webinar",
-      "citta": "Online",
-      "gratuito": true,
-      "crediti": false,
-      "crediti_ore": 0,
-      "desc": "Evento FundsPeople Italia.",
-      "url": "https://fundspeople.com/it/evento/",
-      "fonte": "fundspeople.com/it",
-      "ricorrente": false,
-      "aggiornato": "2026-10-19"
-    },
-    {
       "titolo": "Schroders Webinar Outlook Q4",
       "org": "Schroders",
       "data": "2026-09-22",
@@ -271,36 +256,6 @@
       "desc": "Scenari macro e idee d'investimento per il Q4.",
       "url": "https://www.schrodersportal.it",
       "fonte": "fisso"
-    },
-    {
-      "titolo": "ANCP | ANCP Financial Forum 2026 | Bologna | 6 ottobre | 13:45",
-      "org": "FundsPeople",
-      "data": "2026-09-24",
-      "tipo": "webinar",
-      "citta": "Online",
-      "gratuito": true,
-      "crediti": false,
-      "crediti_ore": 0,
-      "desc": "Evento FundsPeople Italia.",
-      "url": "https://fundspeople.com/it/evento/",
-      "fonte": "fundspeople.com/it",
-      "ricorrente": false,
-      "aggiornato": "2026-10-19"
-    },
-    {
-      "titolo": "Candriam | Too hot to ignore: Investing in a warming world | 6 ottobre | 9:30",
-      "org": "FundsPeople",
-      "data": "2026-09-24",
-      "tipo": "webinar",
-      "citta": "Online",
-      "gratuito": true,
-      "crediti": false,
-      "crediti_ore": 0,
-      "desc": "Evento FundsPeople Italia.",
-      "url": "https://fundspeople.com/it/evento/",
-      "fonte": "fundspeople.com/it",
-      "ricorrente": false,
-      "aggiornato": "2026-10-19"
     },
     {
       "titolo": "Mese Educazione Finanziaria 2026",
@@ -329,7 +284,7 @@
       "url": "https://fundspeople.com/it/evento/",
       "fonte": "fundspeople.com/it",
       "ricorrente": false,
-      "aggiornato": "2026-10-19"
+      "aggiornato": "2026-10-26"
     },
     {
       "titolo": "Corso ACEPI #4 — Certificates Capitale Non Protetto",
@@ -400,7 +355,7 @@
       "url": "https://www.investingroma.it",
       "fonte": "investingroma.it",
       "ricorrente": false,
-      "aggiornato": "2026-10-19"
+      "aggiornato": "2026-10-26"
     },
     {
       "titolo": "Agorà Mefop | La previdenza alla prova tra sfide normative e di mercato | Roma | 22 ottobre | 14:30",
@@ -415,7 +370,22 @@
       "url": "https://fundspeople.com/it/evento/",
       "fonte": "fundspeople.com/it",
       "ricorrente": false,
-      "aggiornato": "2026-10-19"
+      "aggiornato": "2026-10-26"
+    },
+    {
+      "titolo": "Candriam | Webinar - Corporate bonds: are they immune to the current challenges faced by other asset",
+      "org": "FundsPeople",
+      "data": "2026-10-22",
+      "tipo": "webinar",
+      "citta": "Online",
+      "gratuito": true,
+      "crediti": false,
+      "crediti_ore": 0,
+      "desc": "Evento FundsPeople Italia.",
+      "url": "https://fundspeople.com/it/evento/",
+      "fonte": "fundspeople.com/it",
+      "ricorrente": false,
+      "aggiornato": "2026-10-26"
     },
     {
       "titolo": "Parla con Pictet — novembre",
@@ -472,7 +442,7 @@
       "url": "https://acepi.it/it/node/48822",
       "fonte": "acepi.it",
       "ricorrente": false,
-      "aggiornato": "2026-10-19"
+      "aggiornato": "2026-10-26"
     },
     {
       "titolo": "Consultique Webinar — Come ottenere la certificazione CFP",
