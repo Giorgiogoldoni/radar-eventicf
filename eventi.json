@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-10-26 12:13",
-  "totale": 33,
+  "aggiornato": "2026-11-02 14:43",
+  "totale": 37,
   "errori": [],
   "eventi": [
     {
@@ -272,21 +272,6 @@
       "fonte": "fisso"
     },
     {
-      "titolo": "FundsPeople | Advisory Power 2026 | Milano | 22 ottobre | 14.30",
-      "org": "FundsPeople",
-      "data": "2026-10-01",
-      "tipo": "webinar",
-      "citta": "Online",
-      "gratuito": true,
-      "crediti": false,
-      "crediti_ore": 0,
-      "desc": "Evento FundsPeople Italia.",
-      "url": "https://fundspeople.com/it/evento/",
-      "fonte": "fundspeople.com/it",
-      "ricorrente": false,
-      "aggiornato": "2026-10-26"
-    },
-    {
       "titolo": "Corso ACEPI #4 — Certificates Capitale Non Protetto",
       "org": "ACEPI",
       "data": "2026-10-06",
@@ -355,7 +340,7 @@
       "url": "https://www.investingroma.it",
       "fonte": "investingroma.it",
       "ricorrente": false,
-      "aggiornato": "2026-10-26"
+      "aggiornato": "2026-11-02"
     },
     {
       "titolo": "Agorà Mefop | La previdenza alla prova tra sfide normative e di mercato | Roma | 22 ottobre | 14:30",
@@ -370,7 +355,7 @@
       "url": "https://fundspeople.com/it/evento/",
       "fonte": "fundspeople.com/it",
       "ricorrente": false,
-      "aggiornato": "2026-10-26"
+      "aggiornato": "2026-11-02"
     },
     {
       "titolo": "Candriam | Webinar - Corporate bonds: are they immune to the current challenges faced by other asset",
@@ -385,7 +370,82 @@
       "url": "https://fundspeople.com/it/evento/",
       "fonte": "fundspeople.com/it",
       "ricorrente": false,
-      "aggiornato": "2026-10-26"
+      "aggiornato": "2026-11-02"
+    },
+    {
+      "titolo": "Evoluzione Formativa | Evolution Financial Summit 2026 | Milano | 12 novembre",
+      "org": "FundsPeople",
+      "data": "2026-10-26",
+      "tipo": "webinar",
+      "citta": "Online",
+      "gratuito": true,
+      "crediti": false,
+      "crediti_ore": 0,
+      "desc": "Evento FundsPeople Italia.",
+      "url": "https://fundspeople.com/it/evento/",
+      "fonte": "fundspeople.com/it",
+      "ricorrente": false,
+      "aggiornato": "2026-11-02"
+    },
+    {
+      "titolo": "Quaestio Capital Management | Webinar: Il punto sui mercati - Oltre lo shock energetico: inflazione,",
+      "org": "FundsPeople",
+      "data": "2026-10-27",
+      "tipo": "webinar",
+      "citta": "Online",
+      "gratuito": true,
+      "crediti": false,
+      "crediti_ore": 0,
+      "desc": "Evento FundsPeople Italia.",
+      "url": "https://fundspeople.com/it/evento/",
+      "fonte": "fundspeople.com/it",
+      "ricorrente": false,
+      "aggiornato": "2026-11-02"
+    },
+    {
+      "titolo": "FundsPeople Investors Outlook 2026 | Milano | 25 novembre | 09:30",
+      "org": "FundsPeople",
+      "data": "2026-10-28",
+      "tipo": "webinar",
+      "citta": "Online",
+      "gratuito": true,
+      "crediti": false,
+      "crediti_ore": 0,
+      "desc": "Evento FundsPeople Italia.",
+      "url": "https://fundspeople.com/it/evento/",
+      "fonte": "fundspeople.com/it",
+      "ricorrente": false,
+      "aggiornato": "2026-11-02"
+    },
+    {
+      "titolo": "COVIP e IVASS | Diffondere la cultura assicurativa e previdenziale: quale ruolo per gli stakeholder?",
+      "org": "FundsPeople",
+      "data": "2026-10-29",
+      "tipo": "webinar",
+      "citta": "Online",
+      "gratuito": true,
+      "crediti": false,
+      "crediti_ore": 0,
+      "desc": "Evento FundsPeople Italia.",
+      "url": "https://fundspeople.com/it/evento/",
+      "fonte": "fundspeople.com/it",
+      "ricorrente": false,
+      "aggiornato": "2026-11-02"
+    },
+    {
+      "titolo": "Latest publications",
+      "org": "Amundi",
+      "data": "2026-10-29",
+      "tipo": "webinar",
+      "citta": "Online",
+      "gratuito": true,
+      "crediti": false,
+      "crediti_ore": 0,
+      "desc": "Webinar Amundi per advisor italiani.",
+      "url": "https://www.amundi.com/news",
+      "fonte": "amundi.com",
+      "ricorrente": false,
+      "aggiornato": "2026-11-02"
     },
     {
       "titolo": "Parla con Pictet — novembre",
@@ -442,7 +502,7 @@
       "url": "https://acepi.it/it/node/48822",
       "fonte": "acepi.it",
       "ricorrente": false,
-      "aggiornato": "2026-10-26"
+      "aggiornato": "2026-11-02"
     },
     {
       "titolo": "Consultique Webinar — Come ottenere la certificazione CFP",
