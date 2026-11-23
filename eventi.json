@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-11-16 14:43",
-  "totale": 36,
+  "aggiornato": "2026-11-23 17:20",
+  "totale": 37,
   "errori": [],
   "eventi": [
     {
@@ -328,21 +328,6 @@
       "fonte": "fisso"
     },
     {
-      "titolo": "Candriam | Webinar - Corporate bonds: are they immune to the current challenges faced by other asset",
-      "org": "FundsPeople",
-      "data": "2026-10-22",
-      "tipo": "webinar",
-      "citta": "Online",
-      "gratuito": true,
-      "crediti": false,
-      "crediti_ore": 0,
-      "desc": "Evento FundsPeople Italia.",
-      "url": "https://fundspeople.com/it/evento/",
-      "fonte": "fundspeople.com/it",
-      "ricorrente": false,
-      "aggiornato": "2026-11-16"
-    },
-    {
       "titolo": "Evoluzione Formativa | Evolution Financial Summit 2026 | Milano | 12 novembre",
       "org": "FundsPeople",
       "data": "2026-10-26",
@@ -355,7 +340,7 @@
       "url": "https://fundspeople.com/it/evento/",
       "fonte": "fundspeople.com/it",
       "ricorrente": false,
-      "aggiornato": "2026-11-16"
+      "aggiornato": "2026-11-23"
     },
     {
       "titolo": "Quaestio Capital Management | Webinar: Il punto sui mercati - Oltre lo shock energetico: inflazione,",
@@ -370,7 +355,7 @@
       "url": "https://fundspeople.com/it/evento/",
       "fonte": "fundspeople.com/it",
       "ricorrente": false,
-      "aggiornato": "2026-11-16"
+      "aggiornato": "2026-11-23"
     },
     {
       "titolo": "FundsPeople Investors Outlook 2026 | Milano | 25 novembre | 09:30",
@@ -385,7 +370,7 @@
       "url": "https://fundspeople.com/it/evento/",
       "fonte": "fundspeople.com/it",
       "ricorrente": false,
-      "aggiornato": "2026-11-16"
+      "aggiornato": "2026-11-23"
     },
     {
       "titolo": "COVIP e IVASS | Diffondere la cultura assicurativa e previdenziale: quale ruolo per gli stakeholder?",
@@ -400,7 +385,7 @@
       "url": "https://fundspeople.com/it/evento/",
       "fonte": "fundspeople.com/it",
       "ricorrente": false,
-      "aggiornato": "2026-11-16"
+      "aggiornato": "2026-11-23"
     },
     {
       "titolo": "Latest publications",
@@ -415,7 +400,7 @@
       "url": "https://www.amundi.com/news",
       "fonte": "amundi.com",
       "ricorrente": false,
-      "aggiornato": "2026-11-16"
+      "aggiornato": "2026-11-23"
     },
     {
       "titolo": "AIPB | XXII Forum del Private Banking | 20 novembre | Milano | 10:00",
@@ -430,7 +415,22 @@
       "url": "https://fundspeople.com/it/evento/",
       "fonte": "fundspeople.com/it",
       "ricorrente": false,
-      "aggiornato": "2026-11-16"
+      "aggiornato": "2026-11-23"
+    },
+    {
+      "titolo": "Moneyfarm e Allianz Global Investors | Investire con l'AI, una serata per esplorare le nuove opportu",
+      "org": "FundsPeople",
+      "data": "2026-11-17",
+      "tipo": "webinar",
+      "citta": "Online",
+      "gratuito": true,
+      "crediti": false,
+      "crediti_ore": 0,
+      "desc": "Evento FundsPeople Italia.",
+      "url": "https://fundspeople.com/it/evento/",
+      "fonte": "fundspeople.com/it",
+      "ricorrente": false,
+      "aggiornato": "2026-11-23"
     },
     {
       "titolo": "Parla con Pictet — novembre",
@@ -445,6 +445,21 @@
       "desc": "Appuntamento digitale mensile: outlook fine anno.",
       "url": "https://am.pictet.com/it/it/advisors/events",
       "fonte": "fisso"
+    },
+    {
+      "titolo": "Social Impact Agenda per l’Italia e Mefop | Dove va la nostra pensione? Fondi pensione, investimenti",
+      "org": "FundsPeople",
+      "data": "2026-11-20",
+      "tipo": "webinar",
+      "citta": "Online",
+      "gratuito": true,
+      "crediti": false,
+      "crediti_ore": 0,
+      "desc": "Evento FundsPeople Italia.",
+      "url": "https://fundspeople.com/it/evento/",
+      "fonte": "fundspeople.com/it",
+      "ricorrente": false,
+      "aggiornato": "2026-11-23"
     },
     {
       "titolo": "BlackRock Outlook 2027 — Webinar",
@@ -487,7 +502,7 @@
       "url": "https://acepi.it/it/node/48822",
       "fonte": "acepi.it",
       "ricorrente": false,
-      "aggiornato": "2026-11-16"
+      "aggiornato": "2026-11-23"
     },
     {
       "titolo": "Consultique Webinar — Come ottenere la certificazione CFP",
